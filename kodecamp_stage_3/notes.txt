@@ -1,0 +1,7 @@
+1. Explain the following to the best of your ability
+
+a. REACTOR PATTERN: This is a design pattern that helps manage asynchronous activities efficiently. Asynchronous activities are basically non-blocking. That is, they do not wait for a delayed line of code to execute before executing another line of code. In order for these to go throw a smooth flow, the reactor pattern is implemented.
+
+b. CALLBACK PATTERN: This is a way of handling asynchronous operations. It entails the process of passing a function (which will serve as a callback) as argument of another function (which is essentially an Higher Order Function) and the callback will be called once the operation fully runs. This basically calls your provided callback when it's done with its task, allowing your program to continue running without waiting.
+
+c. THE MODULE SYSTEM: This is essentially creating separate files for different aspect of your application and share functionalities between them. This gives a better structure to your program and makes your code easy to reuse. Breaking down code into smaller modules promotes maintainability.
